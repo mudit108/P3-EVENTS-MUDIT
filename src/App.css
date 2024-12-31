@@ -1,0 +1,10 @@
+.active{
+    font-size:20px;
+    color: brown;
+    transition: all 1s linear;
+}
+
+.text12{
+    font-weight: 800;
+    font-size: xx-large;
+}
